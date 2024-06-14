@@ -105,11 +105,14 @@ To contribute to this project, follow these steps:
 4. Push to the branch: `git push origin feature/YourFeature`.
 5. Submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or suggestions, please contact [yourname](mailto:youremail@example.com).
-
+## Screenshots
+* AdminLogin
+![img](/img/AdminLogin.png)
+* Main Windows
+![img](/img/MainWindows.png)
+* Student Login
+![img](/img/StudentLogin.png)
+* Version Number
+![img](/img/VersionNumber.png)

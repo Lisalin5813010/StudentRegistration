@@ -108,11 +108,11 @@ To contribute to this project, follow these steps:
 
 
 ## Screenshots
-* AdminLogin
-![img](/img/AdminLogin.png)
-* Main Windows
-![img](/img/MainWindows.png)
-* Student Login
-![img](/img/StudentLogin.png)
-* Version Number
-![img](/img/VersionNumber.png)
+* Main Windows</br>
+<img src="img/MainWindows.png" width="70%" height="70%">
+* AdminLogin</br>
+<img src="img/AdminLogin.png" width="70%" height="70%">
+* Student Login</br>
+<img src="img/StudentLogin.png" width="70%" height="70%">
+* Version Number</br>
+<img src="img/VersionNumber.png" width="70%" height="70%">

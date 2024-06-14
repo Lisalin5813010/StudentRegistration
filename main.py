@@ -19,15 +19,15 @@ class StartPage:
         label.pack(pady=100)  # pady=100 界面的长度
         Button(self.window, text="Login as Admin", font=tkFont.Font(size=16), command=lambda: AdminPage(self.window), width=30,
                height=2,
-               fg='white', bg='gray', activebackground='black', activeforeground='white').pack()
+               fg='black', bg='gray', activebackground='black', activeforeground='black').pack()
         Button(self.window, text="Login as Student", font=tkFont.Font(size=16), command=lambda: StudentPage(self.window), width=30,
-               height=2, fg='white', bg='gray', activebackground='black', activeforeground='white').pack()
+               height=2, fg='black', bg='gray', activebackground='black', activeforeground='black').pack()
         Button(self.window, text="Account system", font=tkFont.Font(size=16), command=lambda: AboutPage(self.window),
                width=30,
                height=2,
-               fg='white', bg='gray', activebackground='black', activeforeground='white').pack()
+               fg='black', bg='gray', activebackground='black', activeforeground='white').pack()
         Button(self.window, text='Exit', height=2, font=tkFont.Font(size=16), width=30, command=self.window.destroy,
-               fg='white', bg='gray', activebackground='black', activeforeground='white').pack()
+               fg='black', bg='gray', activebackground='black', activeforeground='white').pack()
 
         self.window.mainloop()  
 
